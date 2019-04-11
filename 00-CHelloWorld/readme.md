@@ -1,5 +1,5 @@
 * 171.890-3
 * MARECO
 * LUCIANO GASTON
-* 00 HELLO WORD
+* 00 HELLO WORLD
 * Compilador usado: minGW
