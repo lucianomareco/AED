@@ -58,6 +58,12 @@ suma de los dos números ingresados.
 2. Solicitar al usuario un número entero y guardarlo (b).
 3. Mostrar el resultado de la suma de ambos números (a + b).
 
+### Representación gráfica del algortimo.  
+
+***Diagrama Nassi–Shneiderman***  
+<a href="http://es.tinypic.com?ref=684y0z" target="_blank"><img src="http://i68.tinypic.com/684y0z.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
 
 
 
