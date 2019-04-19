@@ -30,7 +30,7 @@ de la Solución:
       
 2.Escribir, compilar, ejecutar, y probar Adición.cpp.
 
-## Resolución del problema
+## Resolución del trabajo
 
 
 #### ◦ Transcripción del problema.
